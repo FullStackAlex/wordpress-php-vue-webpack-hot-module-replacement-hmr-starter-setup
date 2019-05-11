@@ -1,0 +1,9 @@
+node_modules
+*.log
+*.hot-update.js
+*.hot-update.json
+wp-config.php
+.idea
+/wordpress/wp-content/themes/twentynineteen
+/wordpress/wp-content/cache
+!.gitignore
